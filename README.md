@@ -5,7 +5,6 @@ I am Akshit Gautam, an adept full-stack developer and machine learning enthusias
 - 🔭 I’m currently working on a comprehensive homeschooling platform leveraging AI-driven personalized learning paths.
 - 🌱 I’m currently learning Solana and increasing my reach on Twitter.
 - 👯 I’m looking to collaborate on innovative EdTech, Web3, and Generative AI projects.
-- 🤔 I’m looking for help with my homeschooling platform and finding a co-founder with a strong background in education or child development.
 - 💬 Ask me about full-stack development, microservices architecture, machine learning, and Voice AI technologies.
 - 📫 How to reach me: 
   - [Email](mailto:akshitgautam42@gmail.com)
