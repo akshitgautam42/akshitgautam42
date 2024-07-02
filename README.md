@@ -20,9 +20,6 @@ I am Akshit Gautam, an adept full-stack developer and machine learning enthusias
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-## LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/akshitgautam42?theme=light&font=baloo&ext=activity)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-
 
 ## GitHub Stats
 
@@ -35,3 +32,5 @@ I am Akshit Gautam, an adept full-stack developer and machine learning enthusias
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshitgautam42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
