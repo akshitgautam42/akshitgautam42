@@ -21,7 +21,8 @@ I am Akshit Gautam, an adept full-stack developer and machine learning enthusias
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 ## LeetCode Stats
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=akshitgautam42&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/akshitgautam42?theme=light&font=baloo&ext=activity)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
 
 ## GitHub Stats
 
