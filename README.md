@@ -20,6 +20,9 @@ I am Akshit Gautam, an adept full-stack developer and machine learning enthusias
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Web3](https://img.shields.io/badge/-Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
+## LeetCode Stats
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=akshitgautam42&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
