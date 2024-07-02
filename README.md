@@ -33,4 +33,5 @@ I am Akshit Gautam, an adept full-stack developer and machine learning enthusias
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshitgautam42&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+## LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/akshitgautam42?theme=light&font=baloo&ext=activity)](https://leetcode.com/akshitgautam42)
