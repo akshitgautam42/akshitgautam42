@@ -67,16 +67,6 @@ Innovative ML Engineer with 3+ years of experience in developing cutting-edge AI
 - Tech: Python, Machine Learning, Time Series Analysis
 - Optimized energy production and reduced costs
 
-## GitHub Stats 📊
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshitgautam42&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/akshitgautam42)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshitgautam42&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akshitgautam42)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshitgautam42&theme=tokyonight&hide_border=true)](https://github.com/akshitgautam42)
-
-</div>
-
 ## Connect With Me 🤝
 - 📧 Email: akshitgautam42@gmail.com
 - 💼 LinkedIn: [akshitgautam42](https://www.linkedin.com/in/akshitgautam42)
